@@ -8,8 +8,6 @@ For a marketing agency, having a codebase that is difficult to understand and na
 
 ![GitHub Repo](https://github.com/awjcodes/horiseon-webapp)
 
-
-
 ## Images
 ![Horiseon Webpage](assets/images/horiseon_webpage_example.png)
 
