@@ -3,14 +3,11 @@
 ## Description
 For a marketing agency, having a codebase that is difficult to understand and navigate through can become a problem for quality, and work efficiency. So I have decided to improve their codebase so it follows the accessibility standards, and that the site itself is optimized for the search engines. Making the code more easy to navigate around when looking for certain elements within the html, and css code.
 
-## Links
-![Deployed Application](https://awjcodes.github.io/horiseon-webapp/)
-
-![GitHub Repo](https://github.com/awjcodes/horiseon-webapp)
-
 ## Images
 ![Horiseon Webpage](assets/images/horiseon_webpage_example.png)
 
+## Links
+Deployed Application: https://awjcodes.github.io/horiseon-webapp/
 
 ## License
 MIT License
